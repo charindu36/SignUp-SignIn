@@ -21,10 +21,10 @@ A simple sign-up and login form using HTML, CSS, and Firebase for authentication
 📁 Project Structure
 
 
-/sign-form
+sign-form
 │
-├── index.html        # Login Form
-├── register.html     # Register Form
-├── dashboard.html    # User Dashboard
-├── style.css         # Styling
-└── script.js         # Firebase logic
+- index.html        # Login Form
+- register.html     # Register Form
+- dashboard.html    # User Dashboard
+- style.css         # Styling
+- script.js         # Firebase logic
