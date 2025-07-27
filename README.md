@@ -27,4 +27,5 @@ sign-form
 - register.html     # Register Form
 - dashboard.html    # User Dashboard
 - style.css         # Styling
-- script.js         # Firebase logic
+- firebaseauth.js   # Firebase logic
+- script.js         #
